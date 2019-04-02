@@ -1,5 +1,5 @@
 {
-  "name": "i2-config-maker",
+  "name": "i2-ingest-config-maker",
   "version": "0.1.0",
   "private": true,
   "scripts": {
